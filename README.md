@@ -1,2 +1,2 @@
 # librelink
-Recopilation of uplink tutorials, mods, themes and others.
+Recompilation of uplink tutorials, mods, themes and others.
